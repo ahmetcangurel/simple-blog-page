@@ -1,0 +1,20 @@
+@import "./normalize.css";
+@import "./variables.css";
+
+@import "./header.css";
+@import "./aboutMeSummary.css";
+@import "./latestArticles.css";
+@import "./projects.css";
+@import "./works.css";
+@import "./footer.css";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500;700&family=Montserrat:wght@500;800&display=swap');
+
+
+*{
+    font-family: 'Jost', sans-serif;
+}
+body{
+    background-color: #17232b;
+}

@@ -1,0 +1,32 @@
+
+.aboutMeSummary{
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding-top: 1em;
+}
+
+.aboutMeSummaryTitle{
+    font-weight: 700;
+    font-size: 3em;
+    color: var(--glow20);
+    text-shadow: 0px 0px 100px rgba(188, 251, 195, 0.3);
+}
+
+.aboutMeSummarySummary{
+    color: var(--text10);
+    line-height: 2em;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.aboutMeSummarySummary>a:nth-child(1){
+    color: #1DA1F2;;
+}
+
+.aboutMeSummarySummary>a:nth-child(2){
+    color: #BBC6CC;
+}
+
+.aboutMeSummarySummary>a:nth-child(3){
+    color: #EA4C89;
+}

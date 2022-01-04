@@ -1,0 +1,16 @@
+:root{
+    --max-width: 800px;
+
+    /*Colors*/
+
+    --special: #B7FBBB;
+    --glow10: #B0FBBC;
+    --glow20: #82f9a1;
+    --text10: #ecf8ff;
+    --text20: #c9e2f0;
+    --blue10: #111a20;
+    --blue20: #1c2c35;
+    --blue30: #243b41;
+    --blue40: #416883;
+    --blue50: #5e8ca7;
+}

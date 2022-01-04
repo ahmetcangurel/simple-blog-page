@@ -1,0 +1,32 @@
+
+.latestArticles{
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding-top: 110px;
+}
+
+.latestArticles>p{
+    font-weight: 700;
+    font-size: 1.5em;
+    color: var(--text10);
+}
+
+.latestArticlesSummary{
+    display: inline-flex;
+    align-items: start;
+    margin-top: 35px;
+}
+.latestArticlesSummaryText{
+    margin-left: 10px;
+}
+.latestArticlesSummaryText>a{
+    color: var(--text10);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.latestArticlesSummaryText>p{
+    font-size: 12px;
+    color: var(--blue50);
+}

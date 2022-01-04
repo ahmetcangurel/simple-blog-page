@@ -1,0 +1,39 @@
+.works{
+    background-color: var(--blue20);
+}
+.worksBox{
+    width: var(--max-width);
+    margin:0 auto;
+    margin-top: 100px;
+    padding: 110px 0;
+    text-align: center;
+}
+
+.worksBoxTitle{
+    font-weight: 700;
+    font-size: 3em;
+    color: var(--glow20);
+}
+
+.worksBoxSummary{
+    color: var(--text10);
+    line-height: 2em;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.chatButton{
+    border: 0.5px solid white;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: var(--glow20);
+}
+
+.chatButton a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
